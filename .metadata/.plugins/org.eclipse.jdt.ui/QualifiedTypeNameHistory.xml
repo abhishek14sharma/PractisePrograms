@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Package.Calculator"/>
+    <fullyQualifiedTypeName name="package1.tempf2c"/>
+    <fullyQualifiedTypeName name="package1.tempc2f"/>
+    <fullyQualifiedTypeName name="package2.taxCalculation"/>
+    <fullyQualifiedTypeName name="package4.validInput"/>
+    <fullyQualifiedTypeName name="Package5.swapNumber"/>
+    <fullyQualifiedTypeName name="package7.gradeCheck"/>
+    <fullyQualifiedTypeName name="Package6.calculatorMO"/>
+    <fullyQualifiedTypeName name="package19.powerRaise"/>
+    <fullyQualifiedTypeName name="package19.powerRaiseN"/>
+    <fullyQualifiedTypeName name="package21.digitCount"/>
+    <fullyQualifiedTypeName name="package22.countRaise"/>
+    <fullyQualifiedTypeName name="package22.count"/>
+    <fullyQualifiedTypeName name="package22.raise"/>
+    <fullyQualifiedTypeName name="package23.alphabet"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="package23.characterIndentifier"/>
+</qualifiedTypeNameHistroy>

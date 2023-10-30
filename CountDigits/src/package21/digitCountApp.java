@@ -1,0 +1,16 @@
+package package21;
+
+import java.util.Scanner;
+
+public class digitCountApp 
+{
+	public static void main(String[] args) 
+	{
+		Scanner scan=new Scanner(System.in);
+		System.out.println("Enter a Number=");
+		int num=scan.nextInt();
+		scan.close();
+		int res=digitCount.countDigit(num);
+		System.out.println("Entered Number has "+res+" digits");
+	}
+}

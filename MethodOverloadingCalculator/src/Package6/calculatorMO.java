@@ -12,7 +12,7 @@ public class calculatorMO
 		}
 		return result;
 	}
-	public static void int calculate(int a, int b, char operand)
+	public static int calculate(int a, int b,int c, char operand)
 	{
 		int result=0;
 		switch(operand)
@@ -20,6 +20,7 @@ public class calculatorMO
 		case '-':
 			result=a-b;
 		}
+		return result;
 	}
 	public static int calculate(int a, int b, float c, char operand)
 	{
